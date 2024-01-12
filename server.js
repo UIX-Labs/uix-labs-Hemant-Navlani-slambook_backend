@@ -21,7 +21,7 @@ server.listen(PORT, HOSTNAME, () => {
 
 // Task 2 : Connecting with mongo db data base 
 
-/*
+
 const http = require('http');
 const { MongoClient } = require('mongodb');
 
@@ -56,7 +56,6 @@ async function startServer() {
 
 startServer();
 
-*/
 
 
 
