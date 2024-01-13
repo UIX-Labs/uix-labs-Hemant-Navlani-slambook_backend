@@ -62,7 +62,7 @@ startServer();
 
 // TASK 3 : Use mongoose instead of mongodb driver 
 
-/**
+
 const http = require('http');
 const mongoose = require('mongoose');
 
@@ -95,8 +95,6 @@ async function startServer() {
 }
 
 startServer();
-
- */
 
 
 
